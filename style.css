@@ -42,11 +42,11 @@ body {
   flex:1;
 }
 
-.panel1 { background-image:url(scene1.jpg); }
-.panel2 { background-image:url(scene2.jpg); }
-.panel3 { background-image:url(scene3.jpg); }
-.panel4 { background-image:url(scene4.jpg); }
-.panel5 { background-image:url(scene5.jpg); }
+.panel1 { background-image:url(images/scene1.jpg); }
+.panel2 { background-image:url(images/scene2.jpg); }
+.panel3 { background-image:url(images/scene3.jpg); }
+.panel4 { background-image:url(images/scene4.jpg); }
+.panel5 { background-image:url(images/scene5.jpg); }
 
 /* Flex Children */
 .panel > * {
